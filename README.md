@@ -22,6 +22,9 @@ Ressources listed on this page have not necessarily been tested/used by members 
 
 # Telecom-related packages of interest
  - <https://github.com/dressel/RTLSDR.jl>
+ - <https://github.com/jgaeddert/liquid-dsp>
+ - <https://github.com/dholm/homebrew-sdr>
+ - <https://github.com/JayKickliter/Radio.jl> (Last updated in 2015; MA - Nov 2020)
 
 # Simulation
  - [ACME]
