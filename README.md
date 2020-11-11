@@ -46,7 +46,7 @@ Ressources listed on this page have not necessarily been tested/used by members 
  - [Instruments]
  - [NIDAQ]
 
-# Other Julia "Groups" of interest
+# Other Julia "groups" of interest
  - [JuliaControl]
  - [JuliaDSP]
 
