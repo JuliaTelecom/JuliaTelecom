@@ -8,6 +8,7 @@
 [NIDAQ]: <https://github.com/JaneliaSciComp/NIDAQ.jl>
 [ma-laforge]: <https://github.com/ma-laforge>
 [Modia]: <https://github.com/ModiaSim/Modia.jl>
+[OMJulia]: <https://github.com/OpenModelica/OMJulia.jl>
 [JuliaControl]: <https://github.com/JuliaControl>
 [JuliaDSP]: <https://github.com/JuliaDSP>
 [JuliaPlots]: <https://github.com/JuliaPlots>
@@ -26,9 +27,14 @@ Ressources listed on this page have not necessarily been tested/used by members 
  - <https://github.com/dholm/homebrew-sdr>
  - <https://github.com/JayKickliter/Radio.jl> (Last updated in 2015; MA - Nov 2020)
 
+# Circuit-related packages of interest
+ - <https://github.com/simonp0420/CITIfile.jl>
+ - <https://github.com/kiranshila/Marconi.jl>
+
 # Simulation
  - [ACME]
  - [Modia] (From the mind that brought you Modelica)
+ - [OMJulia] (OpenModelica)
 
 # Plotting/data analysis
  - [JuliaPlots]
@@ -43,6 +49,12 @@ Ressources listed on this page have not necessarily been tested/used by members 
 # Other Julia "Groups" of interest
  - [JuliaControl]
  - [JuliaDSP]
+
+# JuliaHub searches
+Purpose: Provide search terms that will not yield too many unrelated results.
+ - [Packages with "electrical" &#x21AA;](https://juliahub.com/ui/Packages?q=electrical)
+ - [Packages with "microwave" &#x21AA;](https://juliahub.com/ui/Packages?q=microwave)
+ - [Packages *tagged* with "eda" &#x21AA;](https://juliahub.com/ui/Packages?t=eda) (hopefully tag will catch on).
 
 # Other interesting ressources
  - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
