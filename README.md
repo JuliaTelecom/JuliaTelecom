@@ -19,7 +19,7 @@
 This file does not appear to be displayed on "home" page as is the case with personal accounts.
 
 ## :warning: Note
-Ressources listed on this page have not necessarily been tested/used by members of JuliaTelecom. They are provided simply as a starting point to help with development.
+Resources listed on this page have not necessarily been tested/used by members of JuliaTelecom. They are provided simply as a starting point to help with development.
 
 # Telecom-related packages of interest
  - <https://github.com/dressel/RTLSDR.jl>
@@ -56,6 +56,6 @@ Purpose: Provide search terms that will not yield too many unrelated results.
  - [Packages with "microwave" &#x21AA;](https://juliahub.com/ui/Packages?q=microwave)
  - [Packages *tagged* with "eda" &#x21AA;](https://juliahub.com/ui/Packages?t=eda) (hopefully tag will catch on).
 
-# Other interesting ressources
+# Other interesting resources
  - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
  - [Free EDA &#x21AA;][EXTfreeEDA]
