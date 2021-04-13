@@ -13,6 +13,7 @@
 [JuliaDSP]: <https://github.com/JuliaDSP>
 [JuliaPlots]: <https://github.com/JuliaPlots>
 [queryverse]: <https://github.com/queryverse>
+[RSDeltaSigmaPort]: <https://github.com/ma-laforge/RSDeltaSigmaPort.jl>
 
 
 # JuliaTelecom/README.md
@@ -28,6 +29,7 @@ Resources listed on this page have not necessarily been tested/used by members o
  - <https://github.com/JayKickliter/Radio.jl> (Last updated in 2015; MA - Nov 2020)
 
 # Circuit-related packages of interest
+ - [RSDeltaSigmaPort]
  - <https://github.com/simonp0420/CITIfile.jl>
  - <https://github.com/kiranshila/Marconi.jl>
 
