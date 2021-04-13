@@ -29,7 +29,7 @@ Resources listed on this page have not necessarily been tested/used by members o
  - <https://github.com/JayKickliter/Radio.jl> (Last updated in 2015; MA - Nov 2020)
 
 # Circuit-related packages of interest
- - [RSDeltaSigmaPort.jl][RSDeltaSigmaPort]: Port of Richard Schreier's &Delta;&Sigma; toolbox.
+ - [RSDeltaSigmaPort.jl][RSDeltaSigmaPort]: Port (Julia) of Richard Schreier's &Delta;&Sigma; toolbox.
  - <https://github.com/simonp0420/CITIfile.jl>
  - <https://github.com/kiranshila/Marconi.jl>
 
