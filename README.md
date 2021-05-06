@@ -63,16 +63,16 @@ Purpose: Provide search terms that will not yield too many unrelated results.
 # GitHub "topic" searches
 Purpose: Try to find packages of interest (written in any programming language).
  - Electronic Design Automation (EDA)
-   - [`eda` &#x21AA;](https://github.com/topics/eda)
-     , [`electronic-design-automation` &#x21AA;](https://github.com/topics/electronic-design-automation)
-     , [`design-automation` &#x21AA;](https://github.com/topics/design-automation)
+   - [`eda`](https://github.com/topics/eda)
+     , [`electronic-design-automation`](https://github.com/topics/electronic-design-automation)
+     , [`design-automation`](https://github.com/topics/design-automation)
  - Delta-sigma (&Delta;&Sigma;) modulation
-   - [`delta-sigma` &#x21AA;](https://github.com/topics/delta-sigma)
+   - [`delta-sigma`](https://github.com/topics/delta-sigma)
  - Universal Software Radio Peripheral
-   - [`sdr` &#x21AA;](https://github.com/topics/sdr)
-     , [`software-defined-radio` &#x21AA;](https://github.com/topics/software-defined-radio)
+   - [`sdr`](https://github.com/topics/sdr)
+     , [`software-defined-radio`](https://github.com/topics/software-defined-radio)
  - Universal Software Radio Peripheral
-   - [`usrp` &#x21AA;](https://github.com/topics/usrp)
+   - [`usrp`](https://github.com/topics/usrp)
 
 # Other interesting resources
  - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
