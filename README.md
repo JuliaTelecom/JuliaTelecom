@@ -62,6 +62,10 @@ Purpose: Provide search terms that will not yield too many unrelated results.
 
 # GitHub "topic" searches
 Purpose: Try to find packages of interest (written in any programming language).
+ - Circuit Simulation
+   - [`spice`](https://github.com/topics/spice)
+     , [`circuit-simulation`](https://github.com/topics/circuit-simulation)
+     , [`circuit-analysis`](https://github.com/topics/circuit-analysis)
  - Electronic Design Automation (EDA)
    - [`eda`](https://github.com/topics/eda)
      , [`electronic-design-automation`](https://github.com/topics/electronic-design-automation)
