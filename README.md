@@ -25,6 +25,8 @@ Resources listed on this page have not necessarily been tested/used by members o
 # Telecom-related packages of interest
  - <https://github.com/dressel/RTLSDR.jl>
  - <https://github.com/jgaeddert/liquid-dsp>
+   - A Julia wrapper: <https://github.com/JayKickliter/LiquidDSP.jl> (Last updated in 2015; MA - May 2021)
+ - <https://github.com/gnuradio/gnuradio>
  - <https://github.com/dholm/homebrew-sdr>
  - <https://github.com/JayKickliter/Radio.jl> (Last updated in 2015; MA - Nov 2020)
 
@@ -57,6 +59,20 @@ Purpose: Provide search terms that will not yield too many unrelated results.
  - [Packages with "electrical" &#x21AA;](https://juliahub.com/ui/Packages?q=electrical)
  - [Packages with "microwave" &#x21AA;](https://juliahub.com/ui/Packages?q=microwave)
  - [Packages *tagged* with "eda" &#x21AA;](https://juliahub.com/ui/Packages?t=eda) (hopefully tag will catch on).
+
+# GitHub "topic" searches
+Purpose: Try to find packages of interest (written in any programming language).
+ - Electronic Design Automation (EDA)
+   - [`eda` &#x21AA;](https://github.com/topics/eda)
+     , [`electronic-design-automation` &#x21AA;](https://github.com/topics/electronic-design-automation)
+     , [`design-automation` &#x21AA;](https://github.com/topics/design-automation)
+ - Delta-sigma (&Delta;&Sigma;) modulation
+   - [`delta-sigma` &#x21AA;](https://github.com/topics/delta-sigma)
+ - Universal Software Radio Peripheral
+   - [`sdr` &#x21AA;](https://github.com/topics/sdr)
+     , [`software-defined-radio` &#x21AA;](https://github.com/topics/software-defined-radio)
+ - Universal Software Radio Peripheral
+   - [`usrp` &#x21AA;](https://github.com/topics/usrp)
 
 # Other interesting resources
  - [Math/modelling/simulation/plotting resources &#x21AA;][EXTmodelling]
